@@ -1,6 +1,5 @@
-__>>>__ _https://github.com/sskenner/frontendsite/wiki/thoughts-n-stuff_
 
-frontendsite
-============
+pls __[check out the wiki](https://github.com/sskenner/frontendsite/wiki/thoughts-n-stuff)__ to read or add comments et al ..
 
-frontendsite non webflow
+non webflow frontendsite 
+========================
